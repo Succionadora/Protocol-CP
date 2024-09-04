@@ -8,9 +8,3 @@ The crumbs are from icer.ink and the PCL files are given by Jackson.
 
 What you need:
 * Python 2.7
-
-
-
-Discord: Zaseth#7550
-
-**PS: Jackson is a dumb ngr**
